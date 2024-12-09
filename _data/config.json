@@ -103,5 +103,28 @@
         "min_path": "./photos/2018/Hokkaido December/01.min.jpg"
       }
     ]
+  },
+  {
+    "name": "Delhi",
+    "type": "photos",
+    "parents": [
+      "Delhi"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 1701,
+        "height": 1133,
+        "path": "./photos/Delhi/01.jpeg",
+        "min_path": "./photos/Delhi/01.min.jepg"
+      },
+      {
+        "type": "photo",
+        "width": 1701,
+        "height": 983,
+        "path": "./photos/Delhi/02.jpeg",
+        "min_path": "./photos/Delhi/02.min.jpg"
+      }
+    ]
   }
 ]
