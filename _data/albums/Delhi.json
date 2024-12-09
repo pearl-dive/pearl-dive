@@ -1,6 +1,6 @@
 {
   "order": [
-    "a1.jpg",
+    "02.jpg",
     "a2.jpg",
     "a3.jpg",
     "01.jpg"
@@ -10,8 +10,8 @@
       "type": "photo",
       "width": 1701,
       "height": 1133,
-      "path": "./photos/Delhi/a1.jpg",
-      "min_path": "./photos/Delhi/a1.min (1).jpg"
+      "path": "./photos/Delhi/02.jpg",
+      "min_path": "./photos/Delhi/02.min.jpg"
     },
     "a2.jpg": {
       "type": "photo",
