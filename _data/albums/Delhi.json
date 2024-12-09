@@ -1,22 +1,22 @@
 {
   "order": [
-    "https://github.com/pearl-dive/pearl-dive/blob/gh-pages/photos/Delhi/01.jpeg",
-    "https://github.com/pearl-dive/pearl-dive/blob/gh-pages/photos/Delhi/02.jpeg"
+    "https://raw.githubusercontent.com/pearl-dive/pearl-dive/gh-pages/photos/Delhi/01.jpeg",
+    "https://raw.githubusercontent.com/pearl-dive/pearl-dive/gh-pages/photos/Delhi/02.jpeg"
   ],
   "dict": {
     "01.jpeg": {
       "type": "photo",
       "width": 1701,
       "height": 1133,
-      "path": "https://github.com/pearl-dive/pearl-dive/blob/gh-pages/photos/Delhi/01.jpeg",
-      "min_path": "https://github.com/pearl-dive/pearl-dive/blob/gh-pages/photos/Delhi/01.min.jpeg"
+      "path": "https://raw.githubusercontent.com/pearl-dive/pearl-dive/gh-pages/photos/Delhi/01.jpeg",
+      "min_path": "https://raw.githubusercontent.com/pearl-dive/pearl-dive/gh-pages/photos/Delhi/01.jpeg"
     },
     "02.jpeg": {
       "type": "photo",
       "width": 1701,
       "height": 983,
-      "path": "https://github.com/pearl-dive/pearl-dive/blob/gh-pages/photos/Delhi/02.jpeg",
-      "min_path": "https://github.com/pearl-dive/pearl-dive/blob/gh-pages/photos/Delhi/02.jpeg"
+      "path": "https://raw.githubusercontent.com/pearl-dive/pearl-dive/gh-pages/photos/Delhi/02.jpeg",
+      "min_path": "https://raw.githubusercontent.com/pearl-dive/pearl-dive/gh-pages/photos/Delhi/02.jpeg"
     }
   }
 }
