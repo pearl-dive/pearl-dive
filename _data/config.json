@@ -115,15 +115,13 @@
         "type": "photo",
         "width": 1701,
         "height": 1133,
-        "path": "./photos/Delhi/a1.jpeg",
-        "min_path": "./photos/Delhi/a1.jpeg"
+        "path": "./photos/Delhi/a1.jpeg"
       },
       {
         "type": "photo",
         "width": 1701,
         "height": 983,
-        "path": "./photos/Delhi/a2.jpeg",
-        "min_path": "./photos/Delhi/a2.jpeg"
+        "path": "./photos/Delhi/a2.jpeg"
       }
     ]
   }
