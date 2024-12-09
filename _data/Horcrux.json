@@ -5,14 +5,16 @@
   "parents": [],
   "items": {
     "order": [
-      "Delhi"
+      "Delhi",
+      "2024"
     ],
       "Delhi": {
         "name": "Delhi",
         "type": "album",
         "root": 1,
         "parents": [
-          "Delhi"
+          "Delhi",
+          "2024"
         ],
         "items": {
           "order": [
@@ -24,7 +26,8 @@
               "type": "album",
               "root": 2,
               "parents": [
-                "Delhi"
+                "Delhi",
+                "2024"
               ],
               "items": {
           "order": [
@@ -36,7 +39,7 @@
               "type": "album",
               "root": 3,
               "parents": [
-                "Delhi"
+                "Delhi","2024"
               ],
               "items": {
           "order": [
@@ -48,7 +51,8 @@
               "type": "album",
               "root": 4,
               "parents": [
-                "Delhi"
+                "Delhi",
+                "2024"
               ],
               "path": "./_data/albums/Delhi.json",
               "no_sub_album": true 
