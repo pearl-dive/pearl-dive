@@ -4,13 +4,13 @@
     "./photos/Delhi/a2.jpeg"
   ],
   "dict": {
-    "01.jpeg": {
+    "a1.jpeg": {
       "type": "photo",
       "width": 1701,
       "height": 1133,
       "path": "./photos/Delhi/a1.jpeg",
     },
-    "02.jpeg": {
+    "a2.jpeg": {
       "type": "photo",
       "width": 1701,
       "height": 983,
