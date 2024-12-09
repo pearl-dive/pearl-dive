@@ -38,6 +38,18 @@
               "parents": [
                 "Delhi"
               ],
+              "items": {
+          "order": [
+            "Delhi"
+          ],
+          "dict": {
+            "Delhi": {
+              "name": "Delhi",
+              "type": "album",
+              "root": 4,
+              "parents": [
+                "Delhi"
+              ],
               "path": "./_data/albums/Delhi.json",
               "no_sub_album": true 
             }
@@ -46,6 +58,9 @@
       }
     }
   }
+    }
+  }
+}
       }
   }
 }
