@@ -26,6 +26,13 @@
         "height": 1133,
         "path": "./photos/Delhi/a3.jpg",
         "min_path": "./photos/Delhi/a3.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1701,
+        "height": 1133,
+        "path": "./photos/Delhi/01.jpg",
+        "min_path": "./photos/Delhi/01.min.jpg"
       }
     ]
   }
