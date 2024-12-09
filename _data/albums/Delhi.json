@@ -1,6 +1,7 @@
 {
   "order": [
     "a1.jpg",
+    "a2.jpg",
     "a2.jpg"
   ],
   "dict": {
@@ -17,6 +18,13 @@
       "height": 983,
       "path": "./photos/Delhi/a2.jpg",
       "min_path":"./photos/Delhi/a2.min (1).jpg"
+    },
+    "a3.jpg": {
+      "type": "photo",
+      "width": 1701,
+      "height": 983,
+      "path": "./photos/Delhi/a3.jpg",
+      "min_path":"./photos/Delhi/a3.min.jpg"
     }
   }
 }
