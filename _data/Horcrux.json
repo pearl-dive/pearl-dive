@@ -20,36 +20,13 @@
             "Delhi"
           ],
           "dict": {
-            "2023": {
-              "name": "2023",
-              "type": "album",
-              "root": 1,
-              "parents": [
-                "2023"
-              ],
-              "items": {
-          "order": [
-            "Delhi"
-          ],
-          "dict": {
-            "2023": {
-              "name": "2023",
-              "type": "album",
-              "root": 3,
-              "parents": [
-                "2023"
-              ],
-              "items": {
-          "order": [
-            "Delhi"
-          ],
-          "dict": {
-            "2023": {
+            "Delhi": {
               "name": "Delhi",
               "type": "album",
-              "root": 4,
+              "root": 2,
               "parents": [
-                "2023"
+                "2023",
+                "Delhi"
               ],
               "path": "./_data/albums/Delhi/2023.json",
               "no_sub_album": true 
@@ -58,11 +35,7 @@
       }
     }
   }
-}
-    }
-  }
-}
-  },
+},
     "dict": {
       "2024": {
         "name": "2024",
@@ -76,32 +49,10 @@
             "Delhi"
           ],
           "dict": {
-            "2024": {
-              "name": "2024",
+            "Delhi": {
+              "name": "Delhi",
               "type": "album",
               "root": 2,
-              "parents": [
-                "2024",
-                "Delhi"
-              ],
-              "dict": {
-            "2024": {
-              "name": "2024",
-              "type": "album",
-              "root": 3,
-              "parents": [
-                "2024",
-                "Delhi"
-              ],
-              "items": {
-          "order": [
-            "Delhi"
-          ],
-          "dict": {
-            "2024": {
-              "name": "2024",
-              "type": "album",
-              "root": 4,
               "parents": [
                 "2024",
                 "Delhi"
@@ -112,14 +63,12 @@
           }
         }
       }
-              }
-            }
-          }
-        }
-      }
     }
-  }
- }
+            
+          
+      
+    
+
 
             
 
