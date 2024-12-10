@@ -9,15 +9,15 @@
     "list": [
       {
         "type": "photo",
-        "width": 4531,
-        "height": 2984,
+        "width": 4534,
+        "height": 2950,
         "path": "./photos/Delhi/02.jpg",
         "min_path": "./photos/Delhi/02.min.jpg"
       },
       {
         "type": "photo",
-        "width": 4531,
-        "height": 2984,
+        "width": 2910,
+        "height": 4526,
         "path": "./photos/Delhi/a2.jpg",
         "min_path": "./photos/Delhi/a2.min.jpg"
       },
