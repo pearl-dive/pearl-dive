@@ -47,15 +47,15 @@
     "list": [
       {
         "type": "photo",
-        "width": 4536,
-        "height": 2987,
+        "width": 1701,
+        "height": 1122,
         "path": "./photos/Delhi/2023/03.jpg",
         "min_path": "./photos/Delhi/03.min.jpg"
       },
       {
         "type": "photo",
-        "width": 2910,
-        "height": 4526,
+        "width": 850,
+        "height": 1275,
         "path": "./photos/Delhi/2023/04.jpg",
         "min_path": "./photos/Delhi/2023/04.min.jpg"
       },
