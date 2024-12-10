@@ -4,7 +4,7 @@
     "type": "photos",
     "parents": [
       "Delhi",
-      "2024"
+      "2024",
     ],
     "list": [
       {
@@ -35,6 +35,54 @@
         "path": "./photos/Delhi/01.jpg",
         "min_path": "./photos/Delhi/01.min.jpg"
       }
-    ]
+    ],
+    "Delhi": {
+        "name": "Delhi",
+        "type": "album",
+        "root": 1,
+        "parents": [
+          "Delhi",
+          "2023"
+        ],
+        "items": {
+          "order": [
+            "Delhi"
+          ],
+          "dict": {
+            "Delhi": {
+              "name": "Delhi",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Delhi",
+                "2023"
+              ],
+              "items": {
+          "order": [
+            "Delhi"
+          ],
+          "dict": {
+            "Delhi": {
+              "name": "Delhi",
+              "type": "album",
+              "root": 3,
+              "parents": [
+                "Delhi","2023"
+              ],
+              "items": {
+          "order": [
+            "Delhi"
+          ],
+          "dict": {
+            "Delhi": {
+              "name": "Delhi",
+              "type": "album",
+              "root": 4,
+              "parents": [
+                "Delhi",
+                "2023"
+              ],
+              "path": "./_data/albums/Delhi/2023.json",
+              "no_sub_album": true 
   }
 ]
