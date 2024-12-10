@@ -3,7 +3,9 @@
     "03.jpg",
     "04.jpg",
     "5.jpg",
-    "06.jpg"
+    "06.jpg",
+    "12.jpg",
+    "13.jpg"
   ],
   "dict": {
     "03.jpg": {
@@ -33,6 +35,20 @@
       "height": 983,
       "path": "./photos/Delhi/2023/06.jpg",
       "min_path":"./photos/Delhi/2023/06.min.jpg"
+    },
+    "12.jpg": {
+      "type": "photo",
+      "width": 1701,
+      "height": 983,
+      "path": "./photos/Delhi/2023/12.jpg",
+      "min_path":"./photos/Delhi/2023/12.min.jpg"
+    },
+    "13.jpg": {
+      "type": "photo",
+      "width": 1701,
+      "height": 983,
+      "path": "./photos/Delhi/2023/13.jpg",
+      "min_path":"./photos/Delhi/2023/13.min.jpg"
     }
   }
 }
