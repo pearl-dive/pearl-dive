@@ -85,15 +85,15 @@
     "list": [
       {
         "type": "photo",
-        "width": 1701,
-        "height": 1134,
+        "width": 4534,
+        "height": 2950,
         "path": "./photos/Delhi/Mumbai/08.jpg",
         "min_path": "./photos/Mumbai/08.min.jpg"
       },
       {
         "type": "photo",
-        "width": 2910,
-        "height": 4526,
+        "width": 4534,
+        "height": 2950,
         "path": "./photos/Mumbai/09.jpg",
         "min_path": "./photos/Mumbai/09.min.jpg"
       },
