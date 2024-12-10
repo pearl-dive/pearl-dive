@@ -4,7 +4,8 @@
     "09.jpg",
     "10.jpg",
     "11.jpg",
-    "14.jpg"
+    "14.jpg",
+    "16.jpg"
   ],
   "dict": {
     "08.jpg": {
@@ -41,6 +42,13 @@
       "height": 983,
       "path": "./photos/Mumbai/14.jpg",
       "min_path":"./photos/Mumbai/14.min.jpg"
+    },
+    "16.jpg": {
+      "type": "photo",
+      "width": 1701,
+      "height": 983,
+      "path": "./photos/Mumbai/16.jpg",
+      "min_path":"./photos/Mumbai/16.min.jpg"
     }
   }
 }
