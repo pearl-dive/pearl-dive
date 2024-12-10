@@ -36,36 +36,6 @@
         "path": "./photos/Delhi/01.jpg",
         "min_path": "./photos/Delhi/01.min.jpg"
       }
-    ],
-    "list": [
-      {
-        "type": "photo",
-        "width": 2910,
-        "height": 4526,
-        "path": "./photos/Delhi/2023/03.jpg",
-        "min_path": "./photos/Delhi/2023/03.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 1701,
-        "height": 983,
-        "path": "./photos/Delhi/2023/04.jpg",
-        "min_path": "./photos/Delhi/2023/04.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 1701,
-        "height": 1133,
-        "path": "./photos/Delhi/2023/5.jpg",
-        "min_path": "./photos/Delhi/2023/05.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 2910,
-        "height": 4526,
-        "path": "./photos/Delhi/2023/06.jpg",
-        "min_path": "./photos/Delhi/2023/06.min.jpg"
-      }
     ]
   }
 ]
