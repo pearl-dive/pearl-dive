@@ -23,7 +23,7 @@
             "2023": {
               "name": "2023",
               "type": "album",
-              "root": 2,
+              "root": 1,
               "parents": [
                 "2023"
               ],
