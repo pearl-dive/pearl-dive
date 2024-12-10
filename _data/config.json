@@ -35,7 +35,7 @@
         "path": "./photos/Delhi/01.jpg",
         "min_path": "./photos/Delhi/01.min.jpg"
       },
-      
+      {
         "type": "photo",
         "width": 850,
         "height": 1276,
