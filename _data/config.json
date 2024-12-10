@@ -138,6 +138,13 @@
         "height": 4526,
         "path":"./photos/Mumbai/14.jpg",
         "min_path": "./photos/Mumbai/14.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2910,
+        "height": 4526,
+        "path":"./photos/Mumbai/16.jpg",
+        "min_path": "./photos/Mumbai/16.min.jpg"
       }
     ]
   }
