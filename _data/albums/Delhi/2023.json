@@ -8,15 +8,15 @@
   "dict": {
     "03.jpg": {
       "type": "photo",
-      "width": 4536,
-      "height": 2987,
+      "width": 4534,
+      "height": 2950,
       "path": "./photos/Delhi/2023/03.jpg",
       "min_path": "./photos/Delhi/2023/03.min.jpg"
     },
     "04.jpg": {
       "type": "photo",
-      "width": 4531,
-      "height": 2984,
+      "width": 2910,
+      "height": 4526,
       "path": "./photos/Delhi/2023/04.jpg",
       "min_path":"./photos/Delhi/2023/04.min.jpg"
     },
