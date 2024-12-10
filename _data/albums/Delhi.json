@@ -3,7 +3,8 @@
     "02.jpg",
     "a2.jpg",
     "a3.jpg",
-    "01.jpg"
+    "01.jpg",
+    "15.jpg"
   ],
   "dict": {
     "a1.jpg": {
@@ -33,6 +34,13 @@
       "height": 983,
       "path": "./photos/Delhi/01.jpg",
       "min_path":"./photos/Delhi/01.min.jpg"
+    },
+    "15.jpg": {
+      "type": "photo",
+      "width": 1701,
+      "height": 983,
+      "path": "./photos/Delhi/15.jpg",
+      "min_path":"./photos/Delhi/15.min.jpg"
     }
   }
 }
