@@ -1,0 +1,38 @@
+{
+  "order": [
+    "03.jpg",
+    "04.jpg",
+    "5.jpg",
+    "06.jpg"
+  ],
+  "dict": {
+    "03.jpg": {
+      "type": "photo",
+      "width": 1701,
+      "height": 1133,
+      "path": "./photos/Delhi/2023/03.jpg",
+      "min_path": "./photos/Delhi/2023/03.min.jpg"
+    },
+    "04.jpg": {
+      "type": "photo",
+      "width": 1701,
+      "height": 983,
+      "path": "./photos/Delhi/2023/04.jpg",
+      "min_path":"./photos/Delhi/2023/04.min.jpg"
+    },
+    "5.jpg": {
+      "type": "photo",
+      "width": 1701,
+      "height": 983,
+      "path": "./photos/Delhi/2023/5.jpg",
+      "min_path":"./photos/Delhi/2023/05.min.jpg"
+    },
+    "06.jpg": {
+      "type": "photo",
+      "width": 1701,
+      "height": 983,
+      "path": "./photos/Delhi/2023/06.jpg",
+      "min_path":"./photos/Delhi/2023/06.min.jpg"
+    }
+  }
+}
