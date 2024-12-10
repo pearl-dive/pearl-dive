@@ -58,7 +58,7 @@
               "path": "./_data/albums/Delhi.json",
               "no_sub_album": true 
             },
-            "Delhi": {
+        "Delhi": {
         "name": "Delhi",
         "type": "album",
         "root": 1,
@@ -89,7 +89,8 @@
               "type": "album",
               "root": 3,
               "parents": [
-                "Delhi","2023"
+                "Delhi",
+                "2023"
               ],
               "items": {
           "order": [
