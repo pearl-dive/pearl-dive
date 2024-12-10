@@ -5,15 +5,14 @@
   "parents": [],
   "items": {
     "order": [
-      "Delhi",
-      "2024"
+      "2024",
+      "2023"
     ],
-      "Delhi": {
-        "name": "Delhi",
+      "2024": {
+        "name": "2024",
         "type": "album",
         "root": 1,
         "parents": [
-          "Delhi",
           "2024"
         ],
         "items": {
@@ -21,12 +20,11 @@
             "Delhi"
           ],
           "dict": {
-            "Delhi": {
-              "name": "Delhi",
+            "2024": {
+              "name": "2024",
               "type": "album",
               "root": 2,
               "parents": [
-                "Delhi",
                 "2024"
               ],
               "items": {
@@ -34,40 +32,95 @@
             "Delhi"
           ],
           "dict": {
-            "Delhi": {
-              "name": "Delhi",
+            "2024": {
+              "name": "2024",
               "type": "album",
               "root": 3,
               "parents": [
-                "Delhi","2024"
+                "2024"
               ],
               "items": {
           "order": [
             "Delhi"
           ],
           "dict": {
-            "Delhi": {
+            "2024": {
               "name": "Delhi",
               "type": "album",
               "root": 4,
               "parents": [
-                "Delhi",
                 "2024"
               ],
               "path": "./_data/albums/Delhi.json",
               "no_sub_album": true 
-            },
+            }
         }
       }
     }
   }
+}
     }
   }
 }
+  },
+    "dict": {
+      "2023": {
+        "name": "2023",
+        "type": "album",
+        "root": 1,
+        "parents": [
+          "2023"
+        ],
+        "items": {
+          "order": [
+            "Delhi"
+          ],
+          "dict": {
+            "2023": {
+              "name": "2023",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2023",
+                "Delhi"
+              ],
+              "dict": {
+            "2023": {
+              "name": "2023",
+              "type": "album",
+              "root": 3,
+              "parents": [
+                "2023",
+                "Delhi"
+              ],
+              "items": {
+          "order": [
+            "Delhi"
+          ],
+          "dict": {
+            "2023": {
+              "name": "2023",
+              "type": "album",
+              "root": 4,
+              "parents": [
+                "2023",
+                "Delhi"
+              ],
+              "path": "./_data/albums/Delhi/2023.json",
+              "no_sub_album": true
+            }
+          }
+        }
       }
-  }
-}
               }
+            }
+          }
+        }
+      }
+    }
+    
+ }
+}
 
             
 
