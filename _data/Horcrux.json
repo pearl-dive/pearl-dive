@@ -51,7 +51,7 @@
               "parents": [
                 "2024"
               ],
-              "path": "./_data/albums/Delhi.json",
+              "path": "./_data/albums/Delhi/2023.json",
               "no_sub_album": true 
             }
         }
@@ -106,7 +106,7 @@
                 "2023",
                 "Delhi"
               ],
-              "path": "./_data/albums/Delhi/2023.json",
+              "path": "./_data/albums/Delhi.json",
               "no_sub_album": true
             }
           }
