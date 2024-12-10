@@ -74,6 +74,44 @@
         "min_path": "./photos/Delhi/2023/06.min.jpg"
       }
     ]
+  },
+  {
+    "name": "2018",
+    "type": "photos",
+    "parents": [
+      "2018",
+      "Mumbai"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 1701,
+        "height": 1134,
+        "path": "./photos/Delhi/Mumbai/08.jpg",
+        "min_path": "./photos/Mumbai/08.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2910,
+        "height": 4526,
+        "path": "./photos/Mumbai/09.jpg",
+        "min_path": "./photos/Mumbai/09.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4344,
+        "height": 2897,
+        "path": "./photos/Mumbai/10.jpg",
+        "min_path": "./photos/Mumbai/10.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1701,
+        "height": 1134,
+        "path":"./photos/Mumbai/11.jpg",
+        "min_path": "./photos/Mumbai/11.min.jpg"
+      }
+    ]
   }
 ]
 
