@@ -72,6 +72,20 @@
         "height": 1134,
         "path":"./photos/Delhi/2023/06.jpg",
         "min_path": "./photos/Delhi/2023/06.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1701,
+        "height": 1134,
+        "path":"./photos/Delhi/2023/12.jpg",
+        "min_path": "./photos/Delhi/2023/06.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1701,
+        "height": 1134,
+        "path":"./photos/Delhi/2023/12.jpg",
+        "min_path": "./photos/Delhi/2023/13.min.jpg"
       }
     ]
   },
