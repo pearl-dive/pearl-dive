@@ -6,8 +6,7 @@
   "items": {
     "order": [
       "Delhi",
-      "2024",
-      "2023"
+      "2024"
     ],
       "Delhi": {
         "name": "Delhi",
@@ -58,56 +57,6 @@
               "path": "./_data/albums/Delhi.json",
               "no_sub_album": true 
             },
-        "Delhi": {
-        "name": "Delhi",
-        "type": "album",
-        "root": 1,
-        "parents": [
-          "Delhi",
-          "2023"
-        ],
-        "items": {
-          "order": [
-            "Delhi"
-          ],
-          "dict": {
-            "Delhi": {
-              "name": "Delhi",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "Delhi",
-                "2023"
-              ],
-              "items": {
-          "order": [
-            "Delhi"
-          ],
-          "dict": {
-            "Delhi": {
-              "name": "Delhi",
-              "type": "album",
-              "root": 3,
-              "parents": [
-                "Delhi",
-                "2023"
-              ],
-              "items": {
-          "order": [
-            "Delhi"
-          ],
-          "dict": {
-            "Delhi": {
-              "name": "Delhi",
-              "type": "album",
-              "root": 4,
-              "parents": [
-                "Delhi",
-                "2023"
-              ],
-              "path": "./_data/albums/Delhi/2023.json",
-              "no_sub_album": true 
-          }
         }
       }
     }
@@ -119,15 +68,6 @@
   }
 }
               }
-            }
-          }
-              }
-            }
-          }
-        }
-      }
-  }
-}
 
             
 
