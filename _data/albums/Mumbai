@@ -1,0 +1,38 @@
+{
+  "order": [
+    "08.jpg",
+    "09.jpg",
+    "10.jpg",
+    "11.jpg"
+  ],
+  "dict": {
+    "08.jpg": {
+      "type": "photo",
+      "width": 1701,
+      "height": 1122,
+      "path": "./photos/Mumbai/08.jpg",
+      "min_path": "./photos/Mumbai/08.min.jpg"
+    },
+    "09.jpg": {
+      "type": "photo",
+      "width": 1701,
+      "height": 983,
+      "path": "./photos/Mumbai/09.jpg",
+      "min_path":"./photos/Mumbai/09.min.jpg"
+    },
+    "10.jpg": {
+      "type": "photo",
+      "width": 1701,
+      "height": 983,
+      "path": "./photos/Mumbai/10.jpg",
+      "min_path":"./photos/Mumbai/10.min.jpg"
+    },
+    "11.jpg": {
+      "type": "photo",
+      "width": 1701,
+      "height": 983,
+      "path": "./photos/Mumbai/11.jpg",
+      "min_path":"./photos/Mumbai/11.min.jpg"
+    }
+  }
+}
