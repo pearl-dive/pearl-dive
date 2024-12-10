@@ -5,6 +5,7 @@
     "parents": [
       "Delhi",
       "2024",
+      "2023"
     ],
     "list": [
       {
@@ -36,13 +37,6 @@
         "min_path": "./photos/Delhi/01.min.jpg"
       }
     ],
-    {
-    "name": "Delhi",
-    "type": "photos",
-    "parents": [
-      "Delhi",
-      "2023",
-    ],
     "list": [
       {
         "type": "photo",
@@ -73,5 +67,5 @@
         "min_path": "./photos/Delhi/2023/06.min.jpg"
       }
     ]
-  }             
+  }
 ]
