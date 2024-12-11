@@ -1,0 +1,30 @@
+{
+  "order": [
+    "17.jpg",
+    "18.jpg",
+    "19.jpg"
+  ],
+  "dict": {
+    "17.jpg": {
+      "type": "photo",
+      "width": 1701,
+      "height": 1122,
+      "path": "./photos/Varanasi/17.jpg",
+      "min_path": "./photos/Varanasi/17.min.jpg"
+    },
+    "18.jpg": {
+      "type": "photo",
+      "width": 1701,
+      "height": 983,
+      "path": "./photos/Varanasi/18.jpg",
+      "min_path":"./photos/Varanasi/18.min.jpg"
+    },
+    "19.jpg": {
+      "type": "photo",
+      "width": 1701,
+      "height": 983,
+      "path": "./photos/Varanasi/19.jpg",
+      "min_path":"./photos/Varanasi/19.min.jpg"
+    }
+  }
+}
