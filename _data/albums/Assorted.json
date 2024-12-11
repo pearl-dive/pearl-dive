@@ -1,1 +1,22 @@
-
+{
+  "order": [
+    "misc1.jpg",
+    "misc2.jpg"
+  ],
+  "dict": {
+    "misc1.jpg": {
+      "type": "photo",
+      "width": 1701,
+      "height": 1122,
+      "path": "./photos/Assorted/misc1.jpg",
+      "min_path": "./photos/Assorted/misc1.jpg"
+    },
+    "a2.jpg": {
+      "type": "photo",
+      "width": 1701,
+      "height": 983,
+      "path": "./photos/Assorted/misc2.jpg",
+      "min_path":"./photos/Assorted/misc2.jpg"
+    }
+  }
+}
